@@ -1,5 +1,7 @@
 # Desafio Go
 
+**richardanchieta/codeeducation**
+
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 
 1. Você terá que publicar uma imagem no docker hub.
@@ -7,7 +9,7 @@ Esse desafio é muito empolgante principalmente se você nunca trabalhou com a l
 2. Quando executarmos:
 
     ```bash
-    docker run <seu-user>/codeeducation
+    docker run richardanchieta/codeeducation
     ```
 
     Temos que ter o seguinte resultado: 
